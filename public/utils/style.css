@@ -1,0 +1,16 @@
+body {
+	font-family: Jost, montserrat;
+    font-size: 19px;
+}
+
+
+
+
+@font-face {
+    font-family: Jost;
+    src: url(../../fonts/Jost-Regular.ttf);
+}
+@font-face {
+  font-family: montserrat;
+  src: url(../../fonts/Montserrat-Regular.ttf);
+}
